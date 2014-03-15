@@ -1,0 +1,10 @@
+doctype html
+html
+    head
+        title= title
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        script(type='text/javascript', src='/javascripts/vendor/requirejs/require.js', data-main='/javascripts/requirejs_config.js')
+
+        block head
+    body
+        block content

@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35c47b2e-c73e-4a64-ba96-5e7439adea76" name="Default" comment="" />
+    <ignored path="mytestapp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mytestapp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="requirejs_config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/requirejs_config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="24" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="1" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainIndexController.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/controllers/mainIndexController.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="590" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="307" max-vertical-offset="825">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainIndexController.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/controllers/mainIndexController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="735">
+              <folding>
+                <marker date="1394834737000" expanded="true" signature="466:1700" placeholder="{...}" />
+                <marker date="1394834737000" expanded="true" signature="653:1635" placeholder="{...}" />
+                <marker date="1394834737000" expanded="true" signature="681:728" placeholder="{&quot;text&quot;: 'your text here'...}" />
+                <marker date="1394834737000" expanded="true" signature="719:1544" placeholder="{...}" />
+                <marker date="1394834737000" expanded="true" signature="916:1040" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainIndex.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/views/mainIndex.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="17" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factories.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/factories/factories.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="60" selection-start="221" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="210">
+              <folding>
+                <marker date="1394818353000" expanded="true" signature="174:252" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factories.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/factories/factories.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socketIOFactory.ts" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/factories/socketIOFactory.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="37" selection-start="137" selection-end="137" vertical-scroll-proportion="0.06880734" vertical-offset="0" max-vertical-offset="654">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socket.io.client.d.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/def/socket.io.client.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISocketIOFactory.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/factories/ISocketIOFactory.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="51" selection-start="75" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/solvers/Classes/IFindMiddleEdge.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/FindMiddleEdgeClass.ts" />
+        <option value="$PROJECT_DIR$/solvers/Week7Solvers.ts" />
+        <option value="$PROJECT_DIR$/solvers/serverside_references.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/PermutationItem.js" />
+        <option value="$PROJECT_DIR$/solvers/Classes/PermutationClass.js" />
+        <option value="$PROJECT_DIR$/solvers/Week8Solvers.js" />
+        <option value="$PROJECT_DIR$/solvers/Classes/IPermutationClass.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/PermutationClass.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/IPermutationItem.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/PermutationItem.ts" />
+        <option value="$PROJECT_DIR$/public/javascripts/controllers/Week8Controller.ts" />
+        <option value="$PROJECT_DIR$/views/week8.jade" />
+        <option value="$PROJECT_DIR$/routes/week8.js" />
+        <option value="$PROJECT_DIR$/solvers/KamerUtils.ts" />
+        <option value="$PROJECT_DIR$/solvers/Week8Solvers.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/ISuffixTrieClass.ts" />
+        <option value="$PROJECT_DIR$/public/javascripts/controllers/Week9Controller.ts" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/routes/week9.js" />
+        <option value="$PROJECT_DIR$/views/week9.jade" />
+        <option value="$PROJECT_DIR$/solvers/Week9Solvers.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/ITrieClass.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/ITrieNode.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/SuffixTrieClass.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/TrieClass.ts" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/.idea/.name" />
+        <option value="$PROJECT_DIR$/solvers/Classes/AffinityAlignmentClass.ts" />
+        <option value="$PROJECT_DIR$/solvers/Classes/IAlignmentClass.ts" />
+        <option value="$PROJECT_DIR$/solvers/Week1Solvers.ts" />
+        <option value="$PROJECT_DIR$/def/express.d.ts" />
+        <option value="$PROJECT_DIR$/def/node.d.ts" />
+        <option value="$PROJECT_DIR$/appMain.ts" />
+        <option value="$PROJECT_DIR$/appMain.js" />
+        <option value="$PROJECT_DIR$/server/views/layout.jade" />
+        <option value="$PROJECT_DIR$/def/socket.io.d.ts" />
+        <option value="$PROJECT_DIR$/public/javascripts/def/socket.io.client.d.ts" />
+        <option value="$PROJECT_DIR$/server/appMain.ts" />
+        <option value="$PROJECT_DIR$/server/out.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/out.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/main.ts" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/factories/ISocketIOFactory.ts" />
+        <option value="$PROJECT_DIR$/public/javascripts/factories/factories.ts" />
+        <option value="$PROJECT_DIR$/public/javascripts/controllers/controllers.ts" />
+        <option value="$PROJECT_DIR$/server/views/mainIndex.jade" />
+        <option value="$PROJECT_DIR$/public/javascripts/controllers/mainIndexController.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/javascripts/requirejs_config.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/factories/socketIOFactory.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="92" />
+    <option name="y" value="22" />
+    <option name="width" value="1259" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="f1Xcope">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="f1Xcope">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="server">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="f1Xcope">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="server">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="solvers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="f1Xcope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="def" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="settings" />
+    <property name="JavaScriptLanguageLevel" value="ES5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+    <property name="FullScreen" value="false" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="SearchEverywhereHistory" value="&#10;peppa  pig" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="97" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="99" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="102" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="897" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="97" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="99" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="102" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="897" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/javascripts/controllers" />
+      <recent name="$PROJECT_DIR$/server/views" />
+      <recent name="$PROJECT_DIR$/solvers/Classes" />
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/solvers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/javascripts/services/interfaces" />
+      <recent name="$PROJECT_DIR$/public/assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.nodejs - app.js">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nodejs - app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="./appMain.js" node-parameters="--max-old-space-size=8000" working-dir="$PROJECT_DIR$/server">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.nodejs - app.js" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35c47b2e-c73e-4a64-ba96-5e7439adea76" name="Default" comment="" />
+      <created>1383949396633</created>
+      <updated>1383949396633</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first problem of week2 done and checked">
+      <created>1385227895395</created>
+      <updated>1385227895395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week2 up to Cyclopeptide Sequencing correct">
+      <created>1385508179727</created>
+      <updated>1385508179727</updated>
+    </task>
+    <task id="LOCAL-00003" summary="week2 up to LeaderBoard Cyclopeptide Sequencing correct">
+      <created>1385595535694</created>
+      <updated>1385595535694</updated>
+    </task>
+    <task id="LOCAL-00004" summary="week3 skeleton of first solver">
+      <created>1385647726319</created>
+      <updated>1385647726320</updated>
+    </task>
+    <task id="LOCAL-00005" summary="week3 starting median string problem">
+      <created>1385668399043</created>
+      <updated>1385668399043</updated>
+    </task>
+    <task id="LOCAL-00006" summary="week3 finished median string problem">
+      <created>1385670148390</created>
+      <updated>1385670148390</updated>
+    </task>
+    <task id="LOCAL-00007" summary="week3 finished profiler most probable kamer problem">
+      <created>1385678844171</created>
+      <updated>1385678844171</updated>
+    </task>
+    <task id="LOCAL-00008" summary="week3 finished greedy motif search problem">
+      <created>1385728096294</created>
+      <updated>1385728096294</updated>
+    </task>
+    <task id="LOCAL-00009" summary="week3 finished greedy motif search  with pseudocode problem">
+      <created>1385740654792</created>
+      <updated>1385740654792</updated>
+    </task>
+    <task id="LOCAL-00010" summary="week3 finished randomized motif problem">
+      <created>1385765076563</created>
+      <updated>1385765076563</updated>
+    </task>
+    <task id="LOCAL-00011" summary="week3 finished">
+      <created>1385852797953</created>
+      <updated>1385852797953</updated>
+    </task>
+    <task id="LOCAL-00012" summary="skeleton convolution cyclopeptide convolution problem - not working">
+      <created>1385934930018</created>
+      <updated>1385934930018</updated>
+    </task>
+    <task id="LOCAL-00013" summary="week5 : solved string composition problem">
+      <created>1386088837967</created>
+      <updated>1386088837967</updated>
+    </task>
+    <task id="LOCAL-00014" summary="week4 : solved overlap graph problem">
+      <created>1386092808866</created>
+      <updated>1386092808866</updated>
+    </task>
+    <task id="LOCAL-00015" summary="week4 : solved all problems except the eularian cycle, which is already started">
+      <created>1386195644032</created>
+      <updated>1386195644032</updated>
+    </task>
+    <task id="LOCAL-00016" summary="week4 : solved all problems">
+      <created>1386537006357</created>
+      <updated>1386537006357</updated>
+    </task>
+    <task id="LOCAL-00017" summary="week4 : solved all problems - fixed hardcoded debug start node">
+      <created>1386539669203</created>
+      <updated>1386539669203</updated>
+    </task>
+    <task id="LOCAL-00018" summary="week5 : eularian path problem solved">
+      <created>1386544115629</created>
+      <updated>1386544115629</updated>
+    </task>
+    <task id="LOCAL-00019" summary="week5 : String Reconstruction Problem solved&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/From-Eulers-Theorem-to-an-Algorithm-for-Finding-Eulerian-Cycles-203/#step-6">
+      <created>1386583958496</created>
+      <updated>1386583958496</updated>
+    </task>
+    <task id="LOCAL-00020" summary="week5 : Universal String and String Construction from read-paris  Problem solved&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Assembling-Read-Pairs-204/#step-14">
+      <created>1386716467602</created>
+      <updated>1386716467602</updated>
+    </task>
+    <task id="LOCAL-00021" summary="week5 : built skeleton for contig problem (last of this week)&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Epilogue-Genome-Assembly-Faces-Additional-Practical-Hurdles-205/#step-5">
+      <created>1386718440048</created>
+      <updated>1386718440048</updated>
+    </task>
+    <task id="LOCAL-00022" summary="week5 : contig problem finished but yet to be tested&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Epilogue-Genome-Assembly-Faces-Additional-Practical-Hurdles-205/#step-5">
+      <created>1386797737393</created>
+      <updated>1386797737393</updated>
+    </task>
+    <task id="LOCAL-00023" summary="week5 finished. week6 finished change problem&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/An-Introduction-to-Dynamic-Programming-The-Change-Problem-243/#step-8">
+      <created>1386850076085</created>
+      <updated>1386850076085</updated>
+    </task>
+    <task id="LOCAL-00024" summary="week5 finished. week6 change problem small arraya version&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/An-Introduction-to-Dynamic-Programming-The-Change-Problem-243/#step-8">
+      <created>1386854683701</created>
+      <updated>1386854683701</updated>
+    </task>
+    <task id="LOCAL-00025" summary="week6 skeleton for manhattan tourist done, parsingData done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/The-Manhattan-Tourist-Problem-Revisited-261/#step-9">
+      <created>1386857232038</created>
+      <updated>1386857232038</updated>
+    </task>
+    <task id="LOCAL-00026" summary="week6 manhattan tourist done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/The-Manhattan-Tourist-Problem-Revisited-261/#step-9">
+      <created>1386867534463</created>
+      <updated>1386867534463</updated>
+    </task>
+    <task id="LOCAL-00027" summary="week6 output_lcs problem skeleton done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Backtracking-in-the-Alignment-Graph-245/#step-5">
+      <created>1386868784008</created>
+      <updated>1386868784008</updated>
+    </task>
+    <task id="LOCAL-00028" summary="week6 output_lcs problem bulk implementation done - not yet working&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Backtracking-in-the-Alignment-Graph-245/#step-5">
+      <created>1386889899840</created>
+      <updated>1386889899840</updated>
+    </task>
+    <task id="LOCAL-00029" summary="week6 output_lcs problem done, not yet validated but should work&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Backtracking-in-the-Alignment-Graph-245/#step-5">
+      <created>1386929617880</created>
+      <updated>1386929617880</updated>
+    </task>
+    <task id="LOCAL-00030" summary="week6 Longest path in DAG problem skeleton done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Backtracking-in-the-Alignment-Graph-245/#step-7">
+      <created>1386937854527</created>
+      <updated>1386937854527</updated>
+    </task>
+    <task id="LOCAL-00031" summary="week6 Longest path in DAG problem skeleton solved, global alignment problem half done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/From-Global-to-Local-Alignment-247/#step-3">
+      <created>1387675294500</created>
+      <updated>1387675294500</updated>
+    </task>
+    <task id="LOCAL-00032" summary="week6 global alignment problem done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/From-Global-to-Local-Alignment-247/#step-3">
+      <created>1387738905482</created>
+      <updated>1387738905482</updated>
+    </task>
+    <task id="LOCAL-00033" summary="week6 finished&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/From-Global-to-Local-Alignment-247/#step-9">
+      <created>1387748409997</created>
+      <updated>1387748409997</updated>
+    </task>
+    <task id="LOCAL-00034" summary="week7 skeleton of edit problem (first) created&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/3&#10;">
+      <created>1388705843139</created>
+      <updated>1388705843139</updated>
+    </task>
+    <task id="LOCAL-00035" summary="week7  edit problem (first) solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/3&#10;">
+      <created>1388707057609</created>
+      <updated>1388707057610</updated>
+    </task>
+    <task id="LOCAL-00036" summary="week7  fitting problem solved, what a nightmare&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/3&#10;">
+      <created>1388970542563</created>
+      <updated>1388970542563</updated>
+    </task>
+    <task id="LOCAL-00037" summary="week7  skeleton of overlap_alignment_problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/7">
+      <created>1388971100296</created>
+      <updated>1388971100296</updated>
+    </task>
+    <task id="LOCAL-00038" summary="week7  overlap_alignment_problem solved - was just the default order of the backtracker generation /sick&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/7&#10;">
+      <created>1389036957439</created>
+      <updated>1389036957439</updated>
+    </task>
+    <task id="LOCAL-00039" summary="week7  Alignment with Affine Gap Penalties Problem solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Penalizing-Insertions-and-Deletions-in-Sequence-Alignments-249/step/8&#10;">
+      <created>1389059740635</created>
+      <updated>1389059740635</updated>
+    </task>
+    <task id="LOCAL-00040" summary="week7  Space-Efficient alignment solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/SpaceEfficient-Sequence-Alignment-250/step/12&#10;">
+      <created>1389123254010</created>
+      <updated>1389123254010</updated>
+    </task>
+    <task id="LOCAL-00041" summary="week7  GreedySorting Solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/SpaceEfficient-Sequence-Alignment-250/step/12&#10;">
+      <created>1389133642475</created>
+      <updated>1389133642475</updated>
+    </task>
+    <task id="LOCAL-00042" summary="week7  number of breakpoints Solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Breakpoints-287/step/1&#10;">
+      <created>1389134848062</created>
+      <updated>1389134848062</updated>
+    </task>
+    <task id="LOCAL-00043" summary="week7  skeleton of 2 break point problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Breakpoints-287/step/1&#10;">
+      <created>1389201802765</created>
+      <updated>1389201802765</updated>
+    </task>
+    <task id="LOCAL-00044" summary="week7  refactored code to create Permutation Class&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Breakpoints-287/step/1&#10;">
+      <created>1389211632936</created>
+      <updated>1389211632936</updated>
+    </task>
+    <task id="LOCAL-00045" summary="week7  refactored  Permutation Class to allow for multiple blocks&#10;">
+      <created>1389212333894</created>
+      <updated>1389212333894</updated>
+    </task>
+    <task id="LOCAL-00046" summary="week7  2 break distance problem solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Computing-the-2Break-Distance-288/step/1">
+      <created>1389289069372</created>
+      <updated>1389289069372</updated>
+    </task>
+    <task id="LOCAL-00047" summary="week8  shared kmer problem skeleton&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Synteny-Block-Construction-289/step/2&#10;">
+      <created>1389291022910</created>
+      <updated>1389291022910</updated>
+    </task>
+    <task id="LOCAL-00048" summary="week8  Synteny block construction problem solved - week8 finished&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Synteny-Block-Construction-289/step/2&#10;">
+      <created>1389372004455</created>
+      <updated>1389372004455</updated>
+    </task>
+    <task id="LOCAL-00049" summary="week9  Trie construction problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-Patterns-into-a-Trie-294/step/3&#10;">
+      <created>1389477584224</created>
+      <updated>1389477584224</updated>
+    </task>
+    <task id="LOCAL-00050" summary="week9  Trie construction problem solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-Patterns-into-a-Trie-294/step/3&#10;">
+      <created>1389479811202</created>
+      <updated>1389479811203</updated>
+    </task>
+    <task id="LOCAL-00051" summary="week9  multiple pattern matching problem solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-Patterns-into-a-Trie-294/step/6&#10;">
+      <created>1389482887803</created>
+      <updated>1389482887803</updated>
+    </task>
+    <task id="LOCAL-00052" summary="week9  created skeleton of Logests repeat problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-the-Genome-Instead-295/step/8&#10;">
+      <created>1389484247438</created>
+      <updated>1389484247438</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="92" y="22" width="1259" height="797" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.49945945" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.49919355" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982357" sideWeight="0.65710723" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2197092" sideWeight="0.5847953" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32624114" sideWeight="0.58161515" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32624114" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26666668" sideWeight="0.7255435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32765958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32624114" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37056738" sideWeight="0.4990942" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.49945945" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264095" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27513966" sideWeight="0.58196723" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45252225" sideWeight="0.4180328" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37056738" sideWeight="0.4990942" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.49919355" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982357" sideWeight="0.65710723" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20489977" sideWeight="0.5847953" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31424582" sideWeight="0.7255435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="week6 output_lcs problem bulk implementation done - not yet working&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Backtracking-in-the-Alignment-Graph-245/#step-5" />
+    <MESSAGE value="week6 output_lcs problem done, not yet validated but should work&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Backtracking-in-the-Alignment-Graph-245/#step-5" />
+    <MESSAGE value="week6 Longest path in DAG problem skeleton done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/Backtracking-in-the-Alignment-Graph-245/#step-7" />
+    <MESSAGE value="week6 Longest path in DAG problem skeleton solved, global alignment problem half done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/From-Global-to-Local-Alignment-247/#step-3" />
+    <MESSAGE value="week6 global alignment problem done&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/From-Global-to-Local-Alignment-247/#step-3" />
+    <MESSAGE value="week6 finished&#10;&#10;https://beta.stepic.org/Bioinformatics-Algorithms-2/From-Global-to-Local-Alignment-247/#step-9" />
+    <MESSAGE value="week7 skeleton of edit problem (first) created&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/3&#10;" />
+    <MESSAGE value="week7  edit problem (first) solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/3&#10;" />
+    <MESSAGE value="week7  fitting problem solved, what a nightmare&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/3&#10;" />
+    <MESSAGE value="week7  skeleton of overlap_alignment_problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/7" />
+    <MESSAGE value="week7  overlap_alignment_problem solved - was just the default order of the backtracker generation /sick&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/The-Changing-Faces-of-Sequence-Alignment-248/step/7&#10;" />
+    <MESSAGE value="week7  Alignment with Affine Gap Penalties Problem solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Penalizing-Insertions-and-Deletions-in-Sequence-Alignments-249/step/8&#10;" />
+    <MESSAGE value="week7  Space-Efficient alignment solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/SpaceEfficient-Sequence-Alignment-250/step/12&#10;" />
+    <MESSAGE value="week7  GreedySorting Solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/SpaceEfficient-Sequence-Alignment-250/step/12&#10;" />
+    <MESSAGE value="week7  number of breakpoints Solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Breakpoints-287/step/1&#10;" />
+    <MESSAGE value="week7  skeleton of 2 break point problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Breakpoints-287/step/1&#10;" />
+    <MESSAGE value="week7  refactored code to create Permutation Class&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Breakpoints-287/step/1&#10;" />
+    <MESSAGE value="week7  refactored  Permutation Class to allow for multiple blocks&#10;" />
+    <MESSAGE value="week7  2 break distance problem solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Computing-the-2Break-Distance-288/step/1" />
+    <MESSAGE value="week8  shared kmer problem skeleton&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Synteny-Block-Construction-289/step/2&#10;" />
+    <MESSAGE value="week8  Synteny block construction problem solved - week8 finished&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Synteny-Block-Construction-289/step/2&#10;" />
+    <MESSAGE value="week9  Trie construction problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-Patterns-into-a-Trie-294/step/3&#10;" />
+    <MESSAGE value="week9  Trie construction problem solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-Patterns-into-a-Trie-294/step/3&#10;" />
+    <MESSAGE value="week9  multiple pattern matching problem solved&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-Patterns-into-a-Trie-294/step/6&#10;" />
+    <MESSAGE value="week9  created skeleton of Logests repeat problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-the-Genome-Instead-295/step/8&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="week9  created skeleton of Logests repeat problem&#10;&#10;https://stepic.org/Bioinformatics-Algorithms-2/Preprocessing-the-Genome-Instead-295/step/8&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="1375" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="34" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/appMain.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/watcherTasks.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/week7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="116" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.0" vertical-offset="241" max-vertical-offset="915" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/week8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="99" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="279" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/week9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/views/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="619" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/f1Xcope.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/watcherTasks.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="0" selection-start="6608" selection-end="6608" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="21630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/solvers/serverside_references.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="447">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/def/node.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="959" column="51" selection-start="42250" selection-end="42250" vertical-scroll-proportion="0.0" vertical-offset="14204" max-vertical-offset="18960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/def/express.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="255" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/appMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="423" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="1" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.0" vertical-offset="746" max-vertical-offset="2115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/week1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="5" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/def/socket.io.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/directives/TagDetail.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="27" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/appMain.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="13" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/out.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="14" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.3368146" vertical-offset="501" max-vertical-offset="1155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/def/angular.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="532" column="15" selection-start="21652" selection-end="21652" vertical-scroll-proportion="0.0" vertical-offset="7871" max-vertical-offset="11415">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="21" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/services/TagDataService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="54" selection-start="134" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/services/interfaces/ITagDataService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="10" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/references.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/references.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/services/services.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/directives/directives.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="90" selection-start="259" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/controllers/controllers.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="59" selection-start="276" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/controllers/mainIndexController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="735">
+          <folding>
+            <marker date="1394834737000" expanded="true" signature="466:1700" placeholder="{...}" />
+            <marker date="1394834737000" expanded="true" signature="653:1635" placeholder="{...}" />
+            <marker date="1394834737000" expanded="true" signature="681:728" placeholder="{&quot;text&quot;: 'your text here'...}" />
+            <marker date="1394834737000" expanded="true" signature="719:1544" placeholder="{...}" />
+            <marker date="1394834737000" expanded="true" signature="916:1040" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/factories/factories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/factories/factories.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="60" selection-start="221" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding>
+            <marker date="1394818353000" expanded="true" signature="174:252" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/factories/ISocketIOFactory.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="51" selection-start="75" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/views/mainIndex.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="17" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/requirejs_config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="24" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/controllers/mainIndexController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="590" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="307" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/def/socket.io.client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/factories/socketIOFactory.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="37" selection-start="137" selection-end="137" vertical-scroll-proportion="0.06880734" vertical-offset="0" max-vertical-offset="654">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
